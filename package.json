@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rohitchavan8.github.io/Employee-Dashboard",
+  "homepage": "https://rohitchavan8.github.io/empl-dashboard",
   "name": "empl-dashboard",
   "version": "0.1.0",
   "private": true,
@@ -13,9 +13,10 @@
     "@testing-library/user-event": "^13.5.0",
     "ag-grid-community": "^34.3.1",
     "ag-grid-react": "^34.3.1",
+    "gh-pages": "^6.3.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^0.0.0",
     "recharts": "^3.3.0",
     "web-vitals": "^2.1.4"
   },
