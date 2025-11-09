@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/empl-dashboard/static/css/main.4f77eb2f.css",
+    "main.js": "/empl-dashboard/static/js/main.ae5a720b.js",
+    "index.html": "/empl-dashboard/index.html",
+    "main.4f77eb2f.css.map": "/empl-dashboard/static/css/main.4f77eb2f.css.map",
+    "main.ae5a720b.js.map": "/empl-dashboard/static/js/main.ae5a720b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f77eb2f.css",
+    "static/js/main.ae5a720b.js"
+  ]
+}
