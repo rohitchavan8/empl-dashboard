@@ -23,10 +23,8 @@ code {
 }
 
 @media screen and (max-width: 375px) {
-  button {
-    top: 216px !important;
-    RIGHT: 22PX ! IMPORTANT;
-}
-
+  button { top: 216px !important;RIGHT: 22PX !important;} 
+.ag-paging-panel>*{margin: 0px !important; }
+.ag-paging-panel { justify-content: center !important;}
 
 }
